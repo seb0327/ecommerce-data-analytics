@@ -12,3 +12,9 @@ __pycache__/
 
 # IDE settings
 .vscode/
+
+# Raw datasets
+data/raw/*
+
+# Keep directory structure
+!data/raw/.gitkeep
